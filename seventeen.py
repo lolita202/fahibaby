@@ -1,6 +1,7 @@
 #fahima
 def main():
    
+   
  nu = int(input())
  su = 0
  temp = nu
