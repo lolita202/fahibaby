@@ -1,7 +1,5 @@
 #fahima
-def main();
-
-   
+def main():
    
  nu = int(input())
  su = 0
